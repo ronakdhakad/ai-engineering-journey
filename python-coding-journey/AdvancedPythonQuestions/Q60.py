@@ -1,0 +1,13 @@
+# 60. Implement Fibonacci Generator
+
+def fibonacci(n):
+    a, b = 0, 1
+
+    for i in range(n):
+        yield a
+        a, b = b, a + b
+
+n = int(input("Enter number of terms: "))
+
+for num in fibonacci(n):
+    print(num, end=" ")
