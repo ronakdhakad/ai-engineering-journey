@@ -18,12 +18,11 @@ try:
         cursor = connection.cursor()
         
         # 3. Execute a sample query
-        cursor.execute("select * from student;")#insert into student (id,name,age) values (101,'Roshan',19); 
-        # connection.commit()
+        cursor.execute("select * from student;") 
         
         # 4. Fetch and print the result
         rows= cursor.fetchall()
-        # print(rows)
+        print(rows)
         for row in rows:
             print(row)
 
