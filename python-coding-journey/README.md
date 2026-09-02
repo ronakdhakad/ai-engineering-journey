@@ -24,14 +24,4 @@ This repository contains my daily Python coding practice and interview preparati
 - SQL with Python
 - Data Structures & Algorithms
 
-## Progress
-
-| Day | Problem | Status |
-|------|----------|---------|
-| Day 1 | Hello World | ✅ |
-| Day 2 | Variables and Data Types | ✅ |
-| Day 3 | Operators | ✅ |
-
----
-
 Consistent progress is better than perfect progress.
