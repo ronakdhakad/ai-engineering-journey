@@ -11,8 +11,6 @@ cursor=conn.cursor()
 query="delete from students where id=6;"#insert into students (name , age) values ('ujjwal',22);
 
 cursor.execute(query)
-
-
 conn.commit()
 
 q2="select * from students;"
@@ -20,7 +18,6 @@ q2="select * from students;"
 cursor.execute(q2)
 data=cursor.fetchall()
 print(data)
-# print("Table created succesfully.")
-print("data inserted success.")
+
 cursor.close()
 conn.close()
