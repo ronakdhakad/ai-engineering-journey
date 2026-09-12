@@ -11,7 +11,7 @@ app = FastAPI(title="Student Management API")
 # =========================================================
 
 def get_connection():
-    # क्योंकि आपने 'as mysql' किया है, इसलिए यहाँ सीधे mysql.connect काम करेगा
+
     return mysql.connect(
         host="localhost",
         user="root",
