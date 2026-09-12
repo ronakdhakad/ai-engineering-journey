@@ -1,0 +1,31 @@
+student_id,name,age,gender,city,course,marks,attendance,phone,email,joining_date
+101, Rahul Sharma,21,Male,Delhi,Python,85,92%,9876543210,rahul@gmail.com,2024-01-15
+102,Priya Singh,22,Female,Mumbai,Java,78,88%,9876543211,priya@gmail.com,15/02/2024
+103, Amit Kumar,,Male,Delhi,python,92,95%,9876543212,amit@gmail.com,2024/03/10
+104,Neha Verma,20,Female,Bangalore, Java ,67,,9876543213,neha@gmail.com,10-04-2024
+105,Rohit Mehta,twenty one,Male,Pune,Python,74,82%,9876543214,rohit@gmail.com,2024-05-12
+106,Anjali Gupta,23,Female,Mumbai,Data Science,89,91%,9876543215,anjali@gmail.com,2024-06-20
+107,  Karan Patel,22,Male, Ahmedabad,Python,55,75%,9876543216,karan@gmail.com,2024-07-05
+108,Sneha Joshi,21,Female,Delhi,Data Science,,89%,9876543217,sneha@gmail.com,05/08/2024
+109,Vikas Rao,25,Male,Hyderabad,Java,45,68%,9876543218,vikas@gmail.com,2024-09-15
+110,Pooja Shah,19,Female,Pune,Python,98,97%,9876543219,pooja@gmail.com,2024-10-01
+111,Raj Malhotra,22,male,Delhi,Java,76,85%,9876543220,raj@gmail.com,2024-11-12
+112,Simran Kaur,21,Female,Mumbai,python,82,90%,9876543221,simran@gmail.com,2024-12-05
+113,Arjun Singh,24,Male,Delhi,Data Science,91,93%,9876543222,arjun@gmail.com,2025-01-10
+114,Kavya Nair,,Female,Kochi,Python,88,94%,9876543223,kavya@gmail.com,2025-02-15
+115,Manish Yadav,22,Male,Delhi,Java,72,80%,9876543224,manish@gmail.com,2025-03-20
+116,Riya Das,21,Female,Kolkata,Data Science,95,96%,9876543225,riya@gmail.com,2025-04-10
+117, Suresh Kumar ,23,Male,Chennai,Python,64,78%,9876543226,suresh@gmail.com,2025-05-01
+118,Meena Iyer,20,Female,Bangalore,Java,87,92%,9876543227,meena@gmail.com,2025-06-15
+119,Deepak Joshi,22,Male,Delhi,Python,73,84%,9876543228,deepak@gmail.com,2025-07-20
+120,Neha Verma,20,Female,Bangalore,Java,67,,9876543213,neha@gmail.com,10-04-2024
+121,Anjali Gupta,23,Female,Mumbai,Data Science,89,91%,9876543215,anjali@gmail.com,2024-06-20
+122,Arun Kumar,17,Male,Delhi,Python,105,88%,9876543230,arun@gmail.com,2025-08-01
+123,Varun Sharma,-5,Male,Mumbai,Java,65,79%,9876543231,varun@gmail.com,2025-08-10
+124,Megha Roy,21,F,Delhi,python,81,87%,9876543232,megha@gmail.com,2025-08-15
+125,Aakash Jain,22,Male,Delhi,Data science,77,83%,9876543233,aakash@gmail.com,2025-08-20
+126,Divya Kapoor,21,Female,Mumbai,Python,90,95%,9876543234,divya@gmail.com,2025-08-25
+127,  Rahul Sharma  ,21,Male,Delhi,Python,85,92%,9876543210,rahul@gmail.com,2024-01-15
+128,,22,Female,Pune,Java,79,86%,9876543236,,2025-08-30
+129,Aditya,19,Male,,Python,88,90%,9876543237,aditya@gmail.com,2025-09-01
+130,Shivam,abc,Male,Delhi,Java,70,81%,9876543238,shivam@gmail.com,2025-09-05
